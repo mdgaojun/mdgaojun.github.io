@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mdgaojun.github.io</id>
     <title>我的2021</title>
-    <updated>2021-01-28T03:24:57.422Z</updated>
+    <updated>2021-01-28T03:27:32.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mdgaojun.github.io"/>
     <link rel="self" href="https://mdgaojun.github.io/atom.xml"/>
@@ -10,4 +10,16 @@
     <logo>https://mdgaojun.github.io/images/avatar.png</logo>
     <icon>https://mdgaojun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 我的2021</rights>
+    <entry>
+        <title type="html"><![CDATA[1/27/2021]]></title>
+        <id>https://mdgaojun.github.io/post/1272021/</id>
+        <link href="https://mdgaojun.github.io/post/1272021/">
+        </link>
+        <updated>2021-01-22T01:54:41.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="无话可说">无话可说</h2>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="无话可说">无话可说</h2>
+<!-- more -->
+]]></content>
+    </entry>
 </feed>
