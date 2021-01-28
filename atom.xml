@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mdgaojun.github.io</id>
     <title>我的2021</title>
-    <updated>2021-01-28T19:52:34.381Z</updated>
+    <updated>2021-01-28T20:03:33.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mdgaojun.github.io"/>
     <link rel="self" href="https://mdgaojun.github.io/atom.xml"/>
@@ -56,6 +56,7 @@
         </link>
         <updated>2021-01-26T13:57:15.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://mdgaojun.github.io/post-images/1611809886508.jpg" alt="" loading="lazy"></figure>
+<p>👀️ 变异株需要更强的关注</p>
 ]]></content>
     </entry>
 </feed>
