@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mdgaojun.github.io</id>
     <title>我的2021</title>
-    <updated>2021-01-28T20:03:33.005Z</updated>
+    <updated>2021-01-29T21:26:19.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mdgaojun.github.io"/>
     <link rel="self" href="https://mdgaojun.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://mdgaojun.github.io/images/avatar.png</logo>
     <icon>https://mdgaojun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 我的2021</rights>
+    <entry>
+        <title type="html"><![CDATA[AA 风险级别E]]></title>
+        <id>https://mdgaojun.github.io/post/aa-feng-xian-ji-bie-e/</id>
+        <link href="https://mdgaojun.github.io/post/aa-feng-xian-ji-bie-e/">
+        </link>
+        <updated>2021-01-29T08:17:40.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://mdgaojun.github.io/post-images/1611955179944.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完成辉瑞疫苗第二剂]]></title>
         <id>https://mdgaojun.github.io/post/1272021/</id>
